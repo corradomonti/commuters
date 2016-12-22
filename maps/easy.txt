@@ -1,0 +1,6 @@
+Work = 60, 60
+
+Homes = 10, 10
+
+Train from Homes to Work every 120 takes 30
+Train from Work to Homes every 60 takes 30

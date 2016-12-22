@@ -1,0 +1,13 @@
+Work = 60, 60
+
+StationNW = 10, 10
+StationNE = 60, 10
+StationSW = 10, 60
+
+Train from StationNE to StationNW every 30 takes 30
+Train from StationNW to StationSW every 30 takes 30
+Train from StationSW to Work every 30 takes 30
+Train from Work to StationNE every 30 takes 30
+
+Train from Work to StationNW every 120 takes 30
+Train from StationNW to Work every 120 takes 30

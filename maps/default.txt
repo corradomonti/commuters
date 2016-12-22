@@ -1,0 +1,8 @@
+Work = 60, 60
+
+Station1 = 10, 10
+Station2 = 10, 60
+
+Train from Station1 to Station2 every 30 takes 30
+Train from Station2 to Work every 30 takes 30
+Train from Work to Station1 every 30 takes 60

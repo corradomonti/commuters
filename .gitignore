@@ -1,0 +1,7 @@
+*.class
+*.jar
+commuters/dist/
+commuters/jars/
+commuters/bin
+release
+.*
